@@ -1,1 +1,1 @@
-this is file b
+Hi this is the second line
